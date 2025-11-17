@@ -7,11 +7,9 @@
 *.bak
 *.trn
 
-# CSV data files (MovieLens data - too large for GitHub)
-datasets/*.csv
-
-# Note: Users should download MovieLens dataset from:
-# https://grouplens.org/datasets/movielens/
+# CSV data files are INCLUDED in this repo
+# Uncomment the line below if you want to exclude them:
+# datasets/*.csv
 
 # Log files
 *.log
