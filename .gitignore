@@ -1,0 +1,32 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Backup files
+*.bak
+*.trn
+
+# CSV data files (MovieLens data - too large for GitHub)
+datasets/*.csv
+
+# Note: Users should download MovieLens dataset from:
+# https://grouplens.org/datasets/movielens/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
